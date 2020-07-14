@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Italo Cedro. 👋
 
 <h1 align="center">
     <img alt="Coder" title="#Coder" src="https://github.com/italocedrosales/italocedrosales/blob/master/img/coding-freak.gif" width="300px" />
