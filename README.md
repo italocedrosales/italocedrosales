@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/italo-cedro-sales-452172119/"><i>Italo Cedro</i></a> 😃️</h1>
-  <p align="center">Sou FullSatck e FullCycle Developer </p>
+  <p align="center">Sou FullStack e FullCycle Developer </p>
   <br>
   <!-- <p align="center"> 😉️</h2> -->
 </div>
